@@ -3,7 +3,7 @@
 import requests as rst
 import time
 
-UID = 704795480
+UID = 704795484
 # serv_addr = "http://3d8aa4a0.ngrok.io"
 serv_addr = "http://ec2-34-216-8-43.us-west-2.compute.amazonaws.com"
 
